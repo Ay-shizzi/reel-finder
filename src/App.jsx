@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import MovieDetail from "./components/MovieDetail";
 import SearchResults from "./components/SearchResults";
 import MovieInfo from "./components/MovieInfo";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import ScrollToTop from "./components/ScrollToTop";
 
